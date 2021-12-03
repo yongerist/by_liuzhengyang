@@ -4,6 +4,9 @@
     "*.wpy": "vue",
     "*.wxml": "html",
     "*.wxss": "css",
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "pat_zy_001": "c",
+    "limits": "c",
+    "utility": "c"
   }
 }
