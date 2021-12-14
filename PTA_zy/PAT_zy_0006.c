@@ -8,12 +8,10 @@ int main()
   for (long i = 0; i < n; i++)
     for (long j = 0; j < n; j++)
       scanf("%ld", &in[i][j]);
-
   for (long i = 0; i < n; i++)
     for (long j = 0; j < n; j++)
     {
       sum[i] += in[i][j];
-      //prlongf("sum[%d]=%d\n",i,sum[i]);
     }
   for (long i = 0; i < n - 1; i++)
   {
